@@ -1,6 +1,6 @@
-package com.leetcode.easy;
+package com.leetcode;
 
-public class main {
+public class LeetCode {
 	
 	public static void main(String[] args) {
 		System.out.println("Hello Leetcode");
