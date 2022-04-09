@@ -8,4 +8,5 @@ Leetcode Problems
 4. Valid Parentheses
 5. Sqrt(x)
 6. Valid Palindrome 125
+7. Single Number 136
 
