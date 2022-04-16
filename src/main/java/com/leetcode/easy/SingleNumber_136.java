@@ -2,6 +2,8 @@ package com.leetcode.easy;
 
 
 import java.util.Arrays;
+import java.util.HashSet;
+import java.util.NoSuchElementException;
 
 /**
  * https://leetcode.com/problems/single-number/
@@ -9,8 +11,9 @@ import java.util.Arrays;
 public class SingleNumber_136 {
     public static void main(String[] args) {
         int[] numbers = {4, 1, 2, 1, 2};
-        System.out.println(singleNumber(numbers));
-        System.out.println(singleNumberV2(numbers));
+//        System.out.println(singleNumber(numbers));
+//        System.out.println(singleNumberV2(numbers));
+        System.out.println(singleNumberV3(numbers));
     }
 
     /**
@@ -43,4 +46,22 @@ public class SingleNumber_136 {
         return nums[nums.length -1];
     }
 
+    /**
+     * using hashtable
+     */
+    public static int singleNumberV3(int[] nums) {
+        // Space Complexity O(n)
+        HashSet<Integer> set = new HashSet<>();
+        int a = 0;
+        for (int i : nums) {
+            if (!set.add(i)) {
+                set.remove(i);
+            } else {
+                set.add(i);
+            }
+        }
+//        System.out.println(set);
+        return set.stream().findFirst().get();
+//        return a;
+    }
 }

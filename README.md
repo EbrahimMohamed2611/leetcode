@@ -1,6 +1,6 @@
 # Leetcode
 Leetcode Problems
-![Leetcode ](leetcodeProblems.png)
+![LeetCode ](leetcodeProblems.png)
 # Problems
 1. running-sum-of-1d-array
 2. palindrome-number
@@ -9,4 +9,5 @@ Leetcode Problems
 5. Sqrt(x)
 6. Valid Palindrome 125
 7. Single Number 136
+8. Valid Anagram 424
 
