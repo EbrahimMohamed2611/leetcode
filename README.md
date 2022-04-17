@@ -10,4 +10,5 @@ Leetcode Problems
 6. Valid Palindrome 125
 7. Single Number 136
 8. Valid Anagram 424
+9. Majority Element 169
 
