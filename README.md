@@ -11,4 +11,5 @@ Leetcode Problems
 7. Single Number 136
 8. Valid Anagram 424
 9. Majority Element 169
+10. Maximum Subarray 53
 
