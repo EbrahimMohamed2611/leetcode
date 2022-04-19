@@ -13,5 +13,6 @@ Leetcode Problems
 9. Majority Element 169
 10. Maximum Subarray 53
 11. Best Time to Buy and Sell Stock 121
+12. Move Zeroes 283
 
 
