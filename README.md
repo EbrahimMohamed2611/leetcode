@@ -18,5 +18,6 @@ Leetcode Problems
 14. Pascal's Triangle 118
 15. Find Numbers with Even Number of Digits 1295
 16. Check If It Is a Straight Line 1232
+17. Number of Equivalent Domino Pairs 1128
 
 
