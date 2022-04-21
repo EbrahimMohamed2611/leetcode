@@ -9,6 +9,7 @@ import java.util.Arrays;
 public class TwoSumIIInputArrayIsSorted_167 {
     public static void main(String[] args) {
         System.out.println(Arrays.toString(twoSum(new int[]{2, 7, 11, 15}, 9)));
+        System.out.println(Arrays.toString(twoSum2(new int[]{2, 7, 11, 15}, 9)));
     }
 
     /**
@@ -23,7 +24,7 @@ public class TwoSumIIInputArrayIsSorted_167 {
      * @param target
      * @return
      */
-    public static int[] twoSum(int[] numbers, int target) {
+    public static int[] twoSum2(int[] numbers, int target) {
         int rightPointer = numbers.length - 1;
         int leftPointer = 0;
 
@@ -35,6 +36,34 @@ public class TwoSumIIInputArrayIsSorted_167 {
             else
                 return new int[]{leftPointer + 1, rightPointer + 1};
 
+        }
+        return null;
+    }
+
+
+    /**
+     * Using Tow Pointers and BinarySearch
+     * Time (logN)
+     * space O(1)
+     * Runtime: 0 ms, faster than 100.00% of Java online submissions for Two Sum II - Input Array Is Sorted.
+     * Memory Usage: 44.8 MB, less than 95.18% of Java online submissions for Two Sum II - Input Array Is Sorted.
+     * @param numbers
+     * @param target
+     * @return
+     */
+    public static int[] twoSum(int[] numbers, int target) {
+        int rightPointer = numbers.length - 1;
+        int leftPointer = 0;
+        int mid, currentSum;
+        while (rightPointer > leftPointer) {
+            currentSum = numbers[leftPointer] + numbers[rightPointer];
+            mid = (rightPointer + leftPointer) / 2;
+            if (currentSum == target)
+                return new int[]{leftPointer + 1, rightPointer + 1};
+            if (currentSum > target)
+                rightPointer = (numbers[leftPointer] + numbers[mid] > target) ? mid : rightPointer - 1;
+            if(currentSum < target)
+                leftPointer = (numbers[mid] + numbers[rightPointer] < target) ? mid : leftPointer + 1;
         }
         return null;
     }
