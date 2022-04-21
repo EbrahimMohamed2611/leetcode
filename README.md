@@ -21,6 +21,7 @@ Leetcode Problems
 17. Number of Equivalent Domino Pairs 1128
 18. Two Sum II - Input Array Is Sorted 167
 19. Reverse Integer 7
+20. Find All Numbers Disappeared in an Array 448
 
 
 
