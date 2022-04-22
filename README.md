@@ -22,6 +22,7 @@ Leetcode Problems
 18. Two Sum II - Input Array Is Sorted 167
 19. Reverse Integer 7
 20. Find All Numbers Disappeared in an Array 448
+21. Implement strStr() 28
 
 
 
