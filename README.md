@@ -23,6 +23,7 @@ Leetcode Problems
 19. Reverse Integer 7
 20. Find All Numbers Disappeared in an Array 448
 21. Implement strStr() 28
+22. Remove Duplicates from Sorted Array 26
 
 
 
