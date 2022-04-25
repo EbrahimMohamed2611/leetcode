@@ -28,6 +28,7 @@ Leetcode Problems
 24. Missing Number 268
 25. Word Pattern 290
 26. Valid Perfect Square 367
+27. Find First and Last Position of Element in Sorted Array 34
 
 
 
