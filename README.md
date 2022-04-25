@@ -26,6 +26,7 @@ Leetcode Problems
 22. Remove Duplicates from Sorted Array 26
 23. Reverse Linked List 206
 24. Missing Number 268
+25. Word Pattern 290
 
 
 
