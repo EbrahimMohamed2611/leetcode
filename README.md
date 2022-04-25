@@ -27,6 +27,7 @@ Leetcode Problems
 23. Reverse Linked List 206
 24. Missing Number 268
 25. Word Pattern 290
+26. Valid Perfect Square 367
 
 
 
