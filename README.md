@@ -31,6 +31,7 @@ Leetcode Problems
 27. Find First and Last Position of Element in Sorted Array 34
 28. Find Target Indices After Sorting Array 2089
 29. Rank Transform of an Array 1331
+30. Power of Two 231
 
 
 
