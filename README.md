@@ -32,6 +32,7 @@ Leetcode Problems
 28. Find Target Indices After Sorting Array 2089
 29. Rank Transform of an Array 1331
 30. Power of Two 231
+31. Remove Element 27
 
 
 
