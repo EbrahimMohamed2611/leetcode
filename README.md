@@ -33,6 +33,8 @@ Leetcode Problems
 29. Rank Transform of an Array 1331
 30. Power of Two 231
 31. Remove Element 27
+32. Min Stack 155
+
 
 
 
