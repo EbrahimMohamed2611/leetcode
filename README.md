@@ -37,6 +37,7 @@ Leetcode Problems
 33. Plus One 66
 34. Intersection of Two Arrays 349
 35. Can Place Flowers 605
+36. Contains Duplicate 217
 
 
 
