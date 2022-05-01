@@ -39,6 +39,8 @@ Leetcode Problems
 35. Can Place Flowers 605
 36. Contains Duplicate 217
 37. Unique Email Addresses 929
+38. Delete Node in a Linked List 237
+
 
 
 
