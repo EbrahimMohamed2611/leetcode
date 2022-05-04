@@ -44,6 +44,7 @@ Leetcode Problems
 40. Remove Linked List Elements 203
 41. Slowest Key 1629
 42. Largest Substring Between Two Equal Characters 1624
+43. Replace Elements with Greatest Element on Right Side 1299
 
 
 
