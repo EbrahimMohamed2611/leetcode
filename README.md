@@ -43,6 +43,7 @@ Leetcode Problems
 39. Sort Array by Increasing Frequency 1636
 40. Remove Linked List Elements 203
 41. Slowest Key 1629
+42. Largest Substring Between Two Equal Characters 1624
 
 
 
