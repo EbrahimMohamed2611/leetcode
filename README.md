@@ -1,13 +1,14 @@
 # Leetcode
+
 Leetcode Problems
 ![LeetCode ](leetcodeProblems.png)
+
 # Problems
 
 | #   | Problem                             | Topic                | Companies                                       | level | Language  |
 |-----|-------------------------------------|----------------------|-------------------------------------------------|-------|-----------|
 | 1   | 121 Best Time to Buy and Sell Stock | SlidingWindow Arrays | Amazon Google Facebook Uber Microsoft bloomberg | Easy  | java  C++ |
-
-
+| 2   | 704  Binary Search                  | Binary Search        | Microsoft                                       | Easy  | java      |
 
 1. running-sum-of-1d-array
 2. palindrome-number
