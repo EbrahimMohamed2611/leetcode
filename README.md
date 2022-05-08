@@ -2,6 +2,13 @@
 Leetcode Problems
 ![LeetCode ](leetcodeProblems.png)
 # Problems
+
+| #   | Problem                             | Topic                | Companies                                       | level | Language  |
+|-----|-------------------------------------|----------------------|-------------------------------------------------|-------|-----------|
+| 1   | 121 Best Time to Buy and Sell Stock | SlidingWindow Arrays | Amazon Google Facebook Uber Microsoft bloomberg | Easy  | java  C++ |
+
+
+
 1. running-sum-of-1d-array
 2. palindrome-number
 3. longest-common-prefix
@@ -12,7 +19,7 @@ Leetcode Problems
 8. Valid Anagram 424
 9. Majority Element 169
 10. Maximum Subarray 53
-11. Best Time to Buy and Sell Stock 121
+11. Best Time to Buy and Sell Stock 121 ########
 12. Move Zeroes 283
 13. Maximum Number of Balloons 1189
 14. Pascal's Triangle 118
@@ -45,9 +52,6 @@ Leetcode Problems
 41. Slowest Key 1629
 42. Largest Substring Between Two Equal Characters 1624
 43. Replace Elements with Greatest Element on Right Side 1299
-
-
-
 
 
 
