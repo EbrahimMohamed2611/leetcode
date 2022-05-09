@@ -5,10 +5,10 @@ Leetcode Problems
 
 # Problems
 
-| #   | Problem                             | Topic                | Companies                                       | level | Language  |
-|-----|-------------------------------------|----------------------|-------------------------------------------------|-------|-----------|
-| 1   | 121 Best Time to Buy and Sell Stock | SlidingWindow Arrays | Amazon Google Facebook Uber Microsoft bloomberg | Easy  | java  C++ |
-| 2   | 704  Binary Search                  | Binary Search        | Microsoft                                       | Easy  | java      |
+| #   | Problem                             | Topic                  | Companies                                       | level | Language  |
+|-----|-------------------------------------|------------------------|-------------------------------------------------|-------|-----------|
+| 1   | 121 Best Time to Buy and Sell Stock | Sliding Window, Arrays | Amazon Google Facebook Uber Microsoft bloomberg | Easy  | java  C++ |
+| 2   | 704  Binary Search                  | Binary Search          | Microsoft                                       | Easy  | java      |
 
 1. running-sum-of-1d-array
 2. palindrome-number
@@ -53,6 +53,8 @@ Leetcode Problems
 41. Slowest Key 1629
 42. Largest Substring Between Two Equal Characters 1624
 43. Replace Elements with Greatest Element on Right Side 1299
+44. Binary Search 704
+45. Arranging Coins 441
 
 
 
