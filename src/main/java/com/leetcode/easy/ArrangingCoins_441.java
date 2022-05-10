@@ -8,7 +8,7 @@ package com.leetcode.easy;
 public class ArrangingCoins_441 {
 
     /**
-     * Time O(1)
+     * Time O(1) Or Log N for calculate the Sqr(N)
      * Space O (1)
      * The best Solution is using Math Formula
      */
