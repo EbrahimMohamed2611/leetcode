@@ -59,6 +59,8 @@ Leetcode Problems
 47. Guess Number Higher or Lower 374
 48. Length of Last Word 58
 49. Range Sum of BST 938
+50. Increasing Order Search Tree 897
+51. Squaring Sorted Array
 
 
 
