@@ -5,10 +5,11 @@ Leetcode Problems
 
 # Problems
 
-| #   | Problem                             | Topic                  | Companies                                       | level | Language  |
-|-----|-------------------------------------|------------------------|-------------------------------------------------|-------|-----------|
-| 1   | 121 Best Time to Buy and Sell Stock | Sliding Window, Arrays | Amazon Google Facebook Uber Microsoft bloomberg | Easy  | java  C++ |
-| 2   | 704  Binary Search                  | Binary Search          | Microsoft                                       | Easy  | java      |
+| #   | Problem                                                                   | Topic                               | Companies                                       | level | Language  |
+|-----|---------------------------------------------------------------------------|-------------------------------------|-------------------------------------------------|-------|-----------|
+| 1   | 121.Best Time to Buy and Sell Stock                                       | Sliding Window, Arrays              | Amazon Google Facebook Uber Microsoft Bloomberg | Easy  | java  C++ |
+| 2   | 704.Binary Search                                                         | Binary Search                       | Microsoft                                       | Easy  | java      |
+| 3   | [141.Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Linked List  Two Pointers HashTable | Amazon  Bloomberg  Microsoft  Yahoo             | Easy  | java      |
 
 1. running-sum-of-1d-array
 2. palindrome-number
@@ -65,7 +66,7 @@ Leetcode Problems
 53. 3Sum Closest
 54. Find Greatest Common Divisor of Array 1979.
 55. Reverse String 344
-56. Fibonacci Number
+56. Fibonacci Number 509
 
 
 
