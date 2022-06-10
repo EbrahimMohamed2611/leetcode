@@ -10,27 +10,24 @@ public class ConvertBinaryNumberInALinkedListToInteger_1290 {
         }
     }
 
+    /**
+     * Time O(N)
+     * Space O(1)
+     * Runtime: 0 ms, faster than 100.00% of Java online submissions for Convert Binary Number in a Linked List to Integer.
+     * Memory Usage: 41.8 MB, less than 35.98% of Java online submissions for Convert Binary Number in a Linked List to Integer.
+     * @param head
+     * @return
+     */
     public static int getDecimalValue(ListNode head) {
         if (head.next == null)
             return head.val;
-        long result = head.val;
+        int sum = head.val;
         head = head.next;
-        while (head != null) {
-            if (head.val == 1) {
-                result = (result * 10) + 1;
-            } else {
-                result = (result * 10);
-            }
+        while(head != null){
+            sum  = (sum<<1) | head.val;
             head = head.next;
         }
-        System.out.println(result);
-        long decimal = 0;
-        long counter = 0;
-        while (result != 0) {
-            decimal = (long) (decimal + Math.pow(2, counter++) * (result % 10));
-            result = result / 10;
-        }
-        return(int) decimal;
+        return sum;
     }
 
     public static void main(String[] args) {
