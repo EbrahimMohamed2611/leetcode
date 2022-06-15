@@ -14,6 +14,7 @@ Leetcode Problems
 | 5   | [191.Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                                                    | Bit Manipulation                    | Apple Microsoft                                 | Easy  | java      |
 | 6   | [190.ReverseBits](https://leetcode.com/problems/reverse-bits/)                                                                             | Bit Manipulation                    | Amazon Apple Airbnb                             | Easy  | java      |
 | 7   | [21.Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                         | Linked List  Two Pointers           | Amazon Apple Microsoft LinkedIn                 | Easy  | java      |
+| 8   | [202.Happy Number](https://leetcode.com/problems/happy-number)                                                                             | HashSet Slow Fast Pointers          | Google Airbnb Twitter Uber                      | Easy  | java      |
 
 1. running-sum-of-1d-array
 2. palindrome-number
