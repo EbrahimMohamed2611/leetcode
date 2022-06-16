@@ -17,6 +17,7 @@ Leetcode Problems
 | 8   | [202.Happy Number](https://leetcode.com/problems/happy-number)                                                                             | HashSet Slow Fast Pointers               | Google Airbnb Twitter Uber                      | Easy   | java      |
 | 9   | [234.Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                                        | Linked List ArrayList Slow Fast Pointers | Amazon Facebook                                 | Easy   | java      |
 | 10  | [143.Reorder List](https://leetcode.com/problems/reorder-list/)                                                                            | Linked List ArrayList Slow Fast Pointers | Amazon Facebook Google                          | Medium | java      |
+| 11  | [35.Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                         | Two Pointers Binary Search               | Amazon                           | Easy | java      |
 
 1. running-sum-of-1d-array
 2. palindrome-number
