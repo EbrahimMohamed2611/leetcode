@@ -19,6 +19,7 @@ Leetcode Problems
 | 10  | [143.Reorder List](https://leetcode.com/problems/reorder-list/)                                                                            | Linked List ArrayList Slow Fast Pointers | Amazon Facebook Google                          | Medium | java      |
 | 11  | [35.Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                         | Two Pointers Binary Search               | Amazon                                          | Easy   | java      |
 | 12  | [39.Combination Sum](https://leetcode.com/problems/combination-sum/)                                                                       | Array Backtracking                       | Amazon                                          | Medium | java      |
+| 13  | [56.Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                                       | Array Sort Interval                      | Microsoft                                       | Medium | java      |
 
 1. running-sum-of-1d-array
 2. palindrome-number
