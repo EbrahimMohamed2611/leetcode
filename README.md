@@ -20,6 +20,7 @@ Leetcode Problems
 | 11  | [35.Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                         | Two Pointers Binary Search               | Amazon                                          | Easy   | java      |
 | 12  | [39.Combination Sum](https://leetcode.com/problems/combination-sum/)                                                                       | Array Backtracking                       | Amazon                                          | Medium | java      |
 | 13  | [56.Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                                       | Array Sort Interval                      | Microsoft                                       | Medium | java      |
+| 14  | [57.Insert Interval](https://leetcode.com/problems/merge-intervals/)                                                                       | Array Interval                           | Microsoft                                       | Medium | java      |
 
 1. running-sum-of-1d-array
 2. palindrome-number
