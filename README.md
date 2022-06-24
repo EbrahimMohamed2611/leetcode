@@ -22,6 +22,7 @@ Leetcode Problems
 | 13  | [56.Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                                       | Array Sort Interval                      | Microsoft                                       | Medium | java      |
 | 14  | [57.Insert Interval](https://leetcode.com/problems/merge-intervals/)                                                                       | Array Interval                           | Microsoft                                       | Medium | java      |
 | 15  | [986.Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)                                              | Array Interval Two Pointers              | Amazon Facebook Google                          | Medium | java      |
+| 16  | [40.Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)                                                                 | Sorting Backtracking                     | Amazon Microsoft Uber                           | Medium | java      |
 
 1. running-sum-of-1d-array
 2. palindrome-number
