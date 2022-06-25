@@ -7,12 +7,19 @@ import java.util.List;
 // https://leetcode.com/problems/combination-sum-ii/
 public class CombinationSum2_40 {
 
+    /**
+     Runtime: 2 ms, faster than 99.89% of Java online submissions for Combination Sum II.
+     Memory Usage: 42.7 MB, less than 85.45% of Java online submissions for Combination Sum II.
+     * @param candidates
+     * @param target
+     * @return
+     */
     public static List<List<Integer>> combinationSum(int[] candidates, int target) {
         List<List<Integer>> result = new ArrayList<>();
         List<Integer> list = new ArrayList<>();
         Arrays.sort(candidates);
         combinationSum(0, candidates, result, list, target);
-        return new ArrayList<>(result);
+        return result;
     }
 
     private static void combinationSum(int index, int[] elements, List<List<Integer>> results, List<Integer> list, int target) {
