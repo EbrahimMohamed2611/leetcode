@@ -23,8 +23,9 @@ Leetcode Problems
 | 14  | [57.Insert Interval](https://leetcode.com/problems/merge-intervals/)                                                                       | Array Interval                           | Microsoft                                                         | Medium | java      |
 | 15  | [986.Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)                                              | Array Interval Two Pointers              | Amazon Facebook Google                                            | Medium | java      |
 | 16  | [40.Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)                                                                 | Sorting Backtracking                     | Amazon Microsoft Uber                                             | Medium | java      |
-| 17  | [78. Subsets](https://leetcode.com/problems/subsets/)                                                                                      | Array Backtracking                       | Amazon Microsoft Uber Bloomberg Facebook Google Apple Adobe Yahoo | Medium | java      |
-| 18  | [90. Subsets II](https://leetcode.com/problems/subsets-ii/)                                                                                | Array Backtracking                       | Amazon Facebook                                                   | Medium | java      |
+| 17  | [78.Subsets](https://leetcode.com/problems/subsets/)                                                                                       | Array Backtracking                       | Amazon Microsoft Uber Bloomberg Facebook Google Apple Adobe Yahoo | Medium | java      |
+| 18  | [90.Subsets II](https://leetcode.com/problems/subsets-ii/)                                                                                 | Array Backtracking                       | Amazon Facebook                                                   | Medium | java      |
+| 19  | [92.Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)                                                         | Reverse In Place LinkedList              | Amazon Microsoft                                                  | Medium | java      |
 
 1. running-sum-of-1d-array
 2. palindrome-number
