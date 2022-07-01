@@ -27,6 +27,7 @@ Leetcode Problems
 | 18  | [90.Subsets II](https://leetcode.com/problems/subsets-ii/)                                                                                 | Array Backtracking                       | Amazon Facebook                                                   | Medium | java      |
 | 19  | [92.Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)                                                         | Reverse In Place LinkedList              | Amazon Microsoft                                                  | Medium | java      |
 | 20  | [25.Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)                                                     | Reverse In Place LinkedList              | Amazon Microsoft                                                  | Hard   | java      |
+| 21  | [230.Kth Smallest Element in a BST ](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)                                         | Binary Search Tree DFS                   | Amazon                                                            | Medium | java      |
 
 1. running-sum-of-1d-array
 2. palindrome-number
