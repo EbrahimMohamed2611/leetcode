@@ -5,7 +5,7 @@ import com.leetcode.classes.TreeNode;
 import java.util.*;
 
 // https://leetcode.com/problems/kth-smallest-element-in-a-bst/
-public class KSmallestElementInBST {
+public class KSmallestElementInBST_230 {
 
     /**
      * Runtime: 0 ms, faster than 100.00% of Java online submissions for Kth Smallest Element in a BST.
