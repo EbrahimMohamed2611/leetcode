@@ -34,6 +34,7 @@ Leetcode Problems
 | 25  | [102.Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                                  | Binary Tree BFS                          | Amazon Google Uber Microsoft Oracle Bloomberg Facebook            | Medium | java      |
 | 26  | [107.Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)                             | Binary Tree BFS                          | Amazon Google Facebook                                            | Medium | java      |
 | 27  | [111.Minimum Depth of Binary Tree](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)                                     | Binary Tree BFS                          | Amazon Google Facebook                                            | Easy   | java      |
+| 28  | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                           | Binary Tree BFS DFS                      | Amazon Google Facebook                                            | Easy   | java      |
 
 1. running-sum-of-1d-array
 2. palindrome-number
