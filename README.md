@@ -38,6 +38,7 @@ Leetcode Problems
 | 29  | [103.Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                | Binary Tree BFS Queue                    | Amazon Google Facebook                                            | Medium | java      |
 | 30  | [199.Binary Tree Right Side View](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                             | Binary Tree BFS Queue                    | Amazon Google Facebook Microsoft Bloomberg Paypal Adobe eBay      | Medium | java      |
 | 31  | [637.Average of Levels in Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                        | Binary Tree BFS Queue                    | Amazon Google Facebook Apple                                      | Easy   | java      |
+| 32  | [515.Find Largest Value in Each Tree Row](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                     | Binary Tree BFS Queue                    | Google Facebook LinkedIn                                          | Medium | java      |
 
 1. running-sum-of-1d-array
 2. palindrome-number
