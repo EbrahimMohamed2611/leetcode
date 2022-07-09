@@ -1,4 +1,7 @@
 package com.leetcode.easy;
+
+import com.leetcode.classes.TreeNode;
+
 //https://leetcode.com/problems/search-in-a-binary-search-tree/
 public class SearchInABinarySearchTree_700 {
 
