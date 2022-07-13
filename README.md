@@ -45,6 +45,7 @@ Leetcode Problems
 | 36  | [110.Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)                                                            | Binary Tree DFS Stack                    | Amazon                                                            | Easy   | java      |
 | 37  | [543.Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                                                      | Binary Tree DFS Stack                    | Amazon Google Facebook                                            | Easy   | java      |
 | 38  | [295.Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)                                            | Two Heaps                                | Microsoft Google Amazon                                           | Hard   | java      |
+| 39  | [207.Course Schedule](https://leetcode.com/problems/course-schedule/)                                                                      | Graphs Topological Sort                  | Microsoft Google Amazon SalesForce                                | Medium | java      |
 
 1. running-sum-of-1d-array
 2. palindrome-number
