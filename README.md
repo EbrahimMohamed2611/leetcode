@@ -47,6 +47,7 @@ Leetcode Problems
 | 38  | [295.Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)                                            | Two Heaps                                | Microsoft Google Amazon                                           | Hard   | java      |
 | 39  | [207.Course Schedule](https://leetcode.com/problems/course-schedule/)                                                                      | Graphs Topological Sort                  | Microsoft Google Amazon SalesForce                                | Medium | java      |
 | 40  | [210.Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)                                                                | Graphs Topological Sort                  | Microsoft Google Amazon SalesForce                                | Medium | java      |
+| 41  | [785.Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)                                                               | Graphs Bipartite                         | Google Amazon Facebook                                            | Medium | java      |
 
 1. running-sum-of-1d-array
 2. palindrome-number
