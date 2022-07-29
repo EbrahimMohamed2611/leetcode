@@ -52,6 +52,7 @@ Leetcode Problems
 | 43  | [744.Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)                              | Binary Search Array                      | Amazon Facebook Microsoft                                            | Easy   | java      |
 | 44  | [34.Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Binary Search Array                      | Amazon Microsoft                                                     | Medium | java      |
 | 45  | [852.Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)                                                  | Binary Search Array                      | Google Facebook Bloomberg                                            | Medium | java      |
+| 46  | [70.Climbing Stairs](https://leetcode.com/problems/peak-index-in-a-mountain-array/)                                                                  | Dynamic Programming Fibonacci Pattern    | Amazon Google Microsoft LinkeedIn                                    | Easy   | java      |
 
 1. running-sum-of-1d-array
 2. palindrome-number
