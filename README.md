@@ -65,6 +65,7 @@ Leetcode Problems
 | 56  | [131.Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)                                                                | Backtracking Array                       | Google Amazon                                                        | Medium | java      |
 | 57  | [547.Number of Provinces](https://leetcode.com/problems/number-of-provinces/)                                                                        | Graph DFS BFS                            | Google Amazon                                                        | Medium | java      |
 | 58  | [213.House Robber II](https://leetcode.com/problems/house-robber-ii/)                                                                                | DP Fibonacci Pattern                     | Google Amazon                                                        | Medium | java      |
+| 59  | [22.Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                                                                       | Backtracking                             | Amazon                                                               | Medium | java      |
 
 1. running-sum-of-1d-array
 2. palindrome-number
