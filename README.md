@@ -67,6 +67,7 @@ Leetcode Problems
 | 58  | [213.House Robber II](https://leetcode.com/problems/house-robber-ii/)                                                                                | DP Fibonacci Pattern                     | Google Amazon                                                        | Medium | java      |
 | 59  | [22.Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                                                                       | Backtracking                             | Amazon                                                               | Medium | java      |
 | 60  | [257.Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)                                                                            | Binary Tree                              | Amazon                                                               | Easy   | java      |
+| 61  | [1644.Binary Tree Paths II](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii/)                                               | Binary Tree                              | Amazon                                                               | Medium | java      |
 
 1. running-sum-of-1d-array
 2. palindrome-number
