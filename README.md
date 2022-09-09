@@ -69,6 +69,7 @@ Leetcode Problems
 | 60  | [257.Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)                                                                            | Binary Tree                              | Amazon                                                               | Easy   | java      |
 | 62  | [108.Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)                          | Binary Tree                              | Amazon VMWare                                                        | Easy   | java      |
 | 63  | [98.Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                                                         | Binary Tree                              | Amazon Facebook                                                      | Medium | java      |
+| 64  | [19.Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                                               | LinkedList                               | HCL Amazon Oracle                                                    | Medium | java      |
 
 1. running-sum-of-1d-array
 2. palindrome-number
