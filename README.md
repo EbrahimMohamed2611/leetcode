@@ -72,6 +72,7 @@ Leetcode Problems
 | 63  | [98.Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                                                         | Binary Tree                                   | Amazon Facebook                                                      | Medium | java      |
 | 64  | [19.Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                                               | LinkedList                                    | HCL Amazon Oracle                                                    | Medium | java      |
 | 65  | [287.Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                                            | Arrays HashTable FrequencyArray Floyd's Cycle | Amazon VMWare Riverbed Microsoft                                     | Medium | java      |
+| 66  | [628.Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)                                              | Arrays Sort                                   | Amazon Coursera                                                      | Easy   | java      |
 
 1. running-sum-of-1d-array
 2. palindrome-number
