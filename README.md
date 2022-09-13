@@ -74,6 +74,7 @@ Leetcode Problems
 | 65  | [287.Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                                            | Arrays HashTable FrequencyArray Floyd's Cycle | Amazon VMWare Riverbed Microsoft                                     | Medium | java      |
 | 66  | [628.Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)                                              | Arrays Sort                                   | Amazon Coursera                                                      | Easy   | java      |
 | 67  | [733.Flood Fill](https://leetcode.com/problems/flood-fill/)                                                                                          | Arrays DFS BFS                                | Amazon                                                               | Easy   | java      |
+| 68  | [253.Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)                                                                              | Heap sorting Intervals                        | Amazon Google Bloomberg Facebook Microsoft Oracle Uber Apple         | Medium | java      |
 
 1. running-sum-of-1d-array
 2. palindrome-number
