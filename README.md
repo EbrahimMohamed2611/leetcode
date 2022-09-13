@@ -75,6 +75,7 @@ Leetcode Problems
 | 66  | [628.Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)                                              | Arrays Sort                                   | Amazon Coursera                                                      | Easy   | java      |
 | 67  | [733.Flood Fill](https://leetcode.com/problems/flood-fill/)                                                                                          | Arrays DFS BFS                                | Amazon                                                               | Easy   | java      |
 | 68  | [253.Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)                                                                              | Heap sorting Intervals                        | Amazon Google Bloomberg Facebook Microsoft Oracle Uber Apple         | Medium | java      |
+| 69  | [767.Reorganize String](https://leetcode.com/problems/reorganize-string/)                                                                            | Heap HashTable Greedy Counting sorting string | Amazon Uber Intuit Facebook eBay Bloomberg                           | Medium | java      |
 
 1. running-sum-of-1d-array
 2. palindrome-number
