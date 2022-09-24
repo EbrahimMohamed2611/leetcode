@@ -47,15 +47,16 @@ public class MaximumSubarray_53 {
      * @return
      */
     public static int maxSubArray2(int[] nums) {
+        // use thi variable to determine if the next number will increase the current or not if is then add it the current max
+        int currentMax = nums[0];
+        // use this variable to store the max sub so fare about compare it with the current
+        int maxSubArraySoFar = nums[0];
+        for (int i = 1; i < nums.length; i++) {
+            currentMax =  Math.max(nums[i],nums[i]+currentMax);
 
-        int maxSum = nums[0], currentSum = 0;
-        for (int num : nums) {
-            currentSum += num;
-            if (currentSum > maxSum)
-                maxSum = currentSum;
-            if (currentSum < 0)
-                currentSum = 0;
+            if(maxSubArraySoFar < currentMax)
+                maxSubArraySoFar = currentMax;
         }
-        return maxSum;
+        return maxSubArraySoFar;
     }
 }
