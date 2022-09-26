@@ -84,6 +84,7 @@ Leetcode Problems
 | 75  | [162.Find Peak Element](https://leetcode.com/problems/find-peak-element/)                                                                            | Binary Search                                 | Amazon Apple  Microsoft  Facebook Google Uber Adobe tikTok Bloomberg       | Medium | java      |
 | 76  | [31.Next Permutation](https://leetcode.com/problems/next-permutation/)                                                                               | Arrays permutation                            | Amazon Apple  Microsoft Oracle Facebook Google Uber Adobe tikTok Bloomberg | Medium | java      |
 | 77  | [99.Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)                                                           | Binary Search Tree DFS BFS Morris Traversal   | Amazon media.net Microsoft Bloomberg Apple                                 | Medium | java      |
+| 78  | [173.Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)                                                        | Binary Search Tree DFS BFS Morris Traversal   | Amazon Facebooke Google media.net Apple                                    | Medium | java      |
 
 1. running-sum-of-1d-array
 2. palindrome-number
