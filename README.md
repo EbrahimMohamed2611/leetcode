@@ -91,6 +91,7 @@ Leetcode Problems
 | 82  | [937.Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)                                                                 | String Sort Array                             | Amazon Google Audible                                                          | Medium | java      |
 | 83  | [41.First Missing Positive](https://leetcode.com/problems/first-missing-positive/)                                                                        | HashSet Cycle Sort Array                      | Amazon Google Microsoft Adobe Apple Oracle salesforce                          | Hard   | java      |
 | 84  | [448.Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)                                   | HashSet Cycle Sort Array                      | Amazon Apple Google Microsoft Adobe                                            | Easy   | java      |
+| 85  | [442.Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)                                                     | Cycle Sort Array                              | Amazon Facebook Google Microsoft Adobe Apple                                   | Medium | java      |
 
 1. running-sum-of-1d-array
 2. palindrome-number
