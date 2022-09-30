@@ -89,6 +89,8 @@ Leetcode Problems
 | 80  | [987.Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)                                 | Binary Tree DFS BFS Map                       | Amazon Facebook Google Apple Oracle Microsoft Bloomberg Uber                   | Hard   | java      |
 | 81  | [105.Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Binary Tree DFS BFS Map                       | Amazon Apple Microsoft Bloomberg Apple Uber                                    | Medium | java      |
 | 82  | [937.Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)                                                                 | String Sort Array                             | Amazon Google Audible                                                          | Medium | java      |
+| 83  | [41.First Missing Positive](https://leetcode.com/problems/first-missing-positive/)                                                                        | HashSet Cycle Sort Array                      | Amazon Google Microsoft Adobe Apple Oracle salesforce                          | Hard   | java      |
+| 84  | [448.Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)                                   | HashSet Cycle Sort Array                      | Amazon Apple Google Microsoft Adobe                                            | Easy   | java      |
 
 1. running-sum-of-1d-array
 2. palindrome-number
@@ -109,7 +111,6 @@ Leetcode Problems
 17. Number of Equivalent Domino Pairs 1128
 18. Two Sum II - Input Array Is Sorted 167
 19. Reverse Integer 7
-20. Find All Numbers Disappeared in an Array 448
 21. Implement strStr() 28
 22. Remove Duplicates from Sorted Array 26
 23. Reverse Linked List 206
