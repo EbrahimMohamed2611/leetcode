@@ -92,6 +92,7 @@ Leetcode Problems
 | 83  | [41.First Missing Positive](https://leetcode.com/problems/first-missing-positive/)                                                                        | HashSet Cycle Sort Array                      | Amazon Google Microsoft Adobe Apple Oracle salesforce                          | Hard   | java      |
 | 84  | [448.Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)                                   | HashSet Cycle Sort Array                      | Amazon Apple Google Microsoft Adobe                                            | Easy   | java      |
 | 85  | [442.Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)                                                     | Cycle Sort Array                              | Amazon Facebook Google Microsoft Adobe Apple                                   | Medium | java      |
+| 86  | [542.01 Matrix](https://leetcode.com/problems/01-matrix/)                                                                                                 | Matrix BFS Array 2D                           | Amazon Bloomberg Google Microsoft  Facebook Apple Uber                         | Medium | java      |
 
 1. running-sum-of-1d-array
 2. palindrome-number
