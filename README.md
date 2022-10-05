@@ -99,6 +99,7 @@ Leetcode Problems
 | 90  | [2357.Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/)                            | Hashing                                       | Amazon                                                                         | Easy   | java      |
 | 91  | [106.Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | Hashing Binary Tree DFS                       | Amazon Google Bloomberg                                                        | Medium | java      |
 | 92  | [114.Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)                                                 | linkedList Tree DFS                           | Amazon Google Facebook Microsoft                                               | Medium | java      |
+| 93  | [646.Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)                                                             | DP Gready Sort Interval                       | Amazon Google Fliparck Apple Uber                                              | Medium | java      |
 
 1. running-sum-of-1d-array
 2. palindrome-number
