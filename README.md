@@ -1,13 +1,13 @@
 # Leetcode
 
 Leetcode Problems
-![LeetCode ](leetcodeProblems.png)
+![LeetCode](leetcodeProblems.png)
 
 # Problems
 
 | #   | Problem                                                                                                                                                     | Topic                                         | Companies                                                                      | level  | Language  |
 |-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|--------------------------------------------------------------------------------|--------|-----------|
-| 1   | [121.Best Time to Buy and Sell Stock]((https://leetcode.com/problems/best-time-to-buy-and-sell-stock/))                                                     | Sliding Window, Arrays                        | Amazon Google Facebook Uber Microsoft Bloomberg                                | Easy   | java  C++ |
+| 1   | [121.Best Time to Buy and Sell Stock]((https://leetcode.com/problems/best-time-to-buy-and-sell-stock/))                                                     | DP, Arrays                                    | Amazon Google Facebook Uber Microsoft Bloomberg Oracle                         | Easy   | java  C++ |
 | 2   | [704.Binary Search](https://leetcode.com/problems/binary-search/)                                                                                           | Binary Search                                 | Microsoft                                                                      | Easy   | java      |
 | 3   | [141.Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                                                   | Linked List  Two Pointers HashTable           | Amazon  Bloomberg  Microsoft  Yahoo                                            | Easy   | java      |
 | 4   | [1290.Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)                  | Linked List Bit Manipulation                  | Amazon                                                                         | Easy   | java      |
@@ -100,6 +100,7 @@ Leetcode Problems
 | 91  | [106.Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | Hashing Binary Tree DFS                       | Amazon Google Bloomberg                                                        | Medium | java      |
 | 92  | [114.Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)                                                 | linkedList Tree DFS                           | Amazon Google Facebook Microsoft                                               | Medium | java      |
 | 93  | [646.Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)                                                             | DP Gready Sort Interval                       | Amazon Google Fliparck Apple Uber                                              | Medium | java      |
+| 94  | [130.Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)                                                                                 | DFS BFS Graph Matrix                          | Amazon Google TikTok Yahoo                                                     | Medium | java      |
 
 1. running-sum-of-1d-array
 2. palindrome-number

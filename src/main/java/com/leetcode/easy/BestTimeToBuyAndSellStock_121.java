@@ -1,6 +1,21 @@
 package com.leetcode.easy;
 
 public class BestTimeToBuyAndSellStock_121 {
+
+    public int maxProfit3(int[] prices) {
+        if(prices.length == 0 ) return 0;
+        int currentMinPrice = prices[0];
+        int maxProfit = 0; // the worst case will buy and sell in the same day
+        for(int i =1; i< prices.length;i++){
+            int currentCost = prices[i] - currentMinPrice;
+            maxProfit = Math.max(currentCost, maxProfit);
+            // keep the min price until now
+            currentMinPrice = Math.min(currentMinPrice, prices[i]);
+        }
+
+        return maxProfit;
+    }
+
     public static void main(String[] args) {
         int[] array = {7, 1, 5, 3, 6, 4};
         int[] array2 = {7, 6, 4, 3, 1};
