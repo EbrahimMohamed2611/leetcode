@@ -103,6 +103,8 @@ Leetcode Problems
 | 94  | [130.Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)                                                                                 | DFS BFS Graph Matrix                          | Amazon Google TikTok Yahoo                                                     | Medium | java      |
 | 95  | [124.Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)                                                             | DFS Binary Tree DP                            | Amazon Google Apple Doordash Microsoft                                         | Hard   | java      |
 | 96  | [151.Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                                                                   | String egex Two Pointers                      | Amazon Google Apple Bloombarge VMware Microsoft                                | Medium | java      |
+| 97  | [151.Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                                                                   | String egex Two Pointers                      | Amazon Google Apple Bloombarge VMware Microsoft                                | Medium | java      |
+| 98  | [238.Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                                             | Array Prefix                                  | Amazon Google Apple Adobe Salesforce Microsoft Uber                            | Medium | java      |
 
 1. running-sum-of-1d-array
 2. palindrome-number
