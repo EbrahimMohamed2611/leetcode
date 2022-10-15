@@ -107,6 +107,7 @@ Leetcode Problems
 | 98  | [238.Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                                             | Array Prefix                                  | Amazon Google Apple Adobe Salesforce Microsoft Uber                            | Medium | java      |
 | 99  | [416.Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)                                                                 | DP 0/1 Knapsack Pattern Recursion             | Amazon Facebook Apple Microsoft                                                | Medium | java      |
 | 100 | [494.Target Sum](https://leetcode.com/problems/target-sum/)                                                                                                 | DP 0/1 Knapsack Pattern Recursion             | Amazon Uber Facebook Google Microsoft Adobe                                    | Medium | java      |
+| 101 | [252.Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)                                                                                           | Sort Intervals Arrays                         | Amazon Bloombarge Uber Facebook Google Microsoft Adobe                         | Easy   | java      |
 
 1. running-sum-of-1d-array
 2. palindrome-number
