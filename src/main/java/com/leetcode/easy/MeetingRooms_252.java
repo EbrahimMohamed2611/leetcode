@@ -5,7 +5,7 @@ import java.util.*;
 public class MeetingRooms_252 {
     /*
     Runtime: 5 ms, faster than 98.14% of Java online submissions for Meeting Rooms.
-Memory Usage: 41.8 MB, less than 97.98% of Java online submissions for Meeting Rooms.
+    Memory Usage: 41.8 MB, less than 97.98% of Java online submissions for Meeting Rooms.
      */
     public boolean canAttendMeetings(int[][] intervals) {
         Arrays.sort(intervals, (interval1, interval2) -> interval1[0] - interval2[0]);
