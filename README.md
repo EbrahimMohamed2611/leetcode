@@ -115,6 +115,7 @@ Leetcode Problems
 | 106 | [55.Jump Game](https://leetcode.com/problems/jump-game/)                                                                                                    | Dynamic Programming Greedy                    | Facebook Amazon Google Microsoft Adobe Apple Uber                              | Medium | java      |
 | 107 | [171.Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)                                                                   | Math String                                   | Facebook Amazon                                                                | Easy   | java      |
 | 108 | [412.Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                                                                                   | Math String                                   | Facebook Amazon Google Apple Uber IBM                                          | Easy   | java      |
+| 109 | [326.Power of Three](https://leetcode.com/problems/power-of-three/)                                                                                         | Math                                          | Facebook Amazon Google Apple Bloombarge                                        | Easy   | java      |
 
 1. running-sum-of-1d-array
 2. palindrome-number
