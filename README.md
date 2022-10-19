@@ -117,6 +117,7 @@ Leetcode Problems
 | 108 | [412.Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                                                                                   | Math String                                   | Facebook Amazon Google Apple Uber IBM                                          | Easy   | java      |
 | 109 | [326.Power of Three](https://leetcode.com/problems/power-of-three/)                                                                                         | Math                                          | Facebook Amazon Google Apple Bloombarge                                        | Easy   | java      |
 | 110 | [350.Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)                                                           | HashMap Sort Two Pointers                     | Facebook Amazon Google Adobe Bloombarge Oracle Apple                           | Easy   | java      |
+| 111 | [867.Transpose Matrix](https://leetcode.com/problems/intersection-of-two-arrays-ii/)                                                                        | Math Matrix Array                             | Amazon Bloombarge  Apple                                                       | Easy   | java      |
 
 1. running-sum-of-1d-array
 2. palindrome-number
