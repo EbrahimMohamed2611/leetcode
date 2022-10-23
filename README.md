@@ -123,6 +123,7 @@ Leetcode Problems
 | 113 | [981.Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)                                                                 | HashTable Binary Search String Array Design   | Amazon Lyft Google Uber Facebook Google Netflix Oracle                         | Medium | java      |
 | 114 | [259.3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)                                                                                             | Two Pointers Array                            | Apple IBM Google  Facebook                                                     | Medium | java      |
 | 115 | [503.Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)                                                                       | Monotonic Stack                               | Amazon Adobe Apple Facebook Google  Bloomberg                                  | Medium | java      |
+| 116 | [1268.Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)                                                                  | Trie Design HashMap                           | Amazon Apple Facebook Google  Bloomberg                                        | Medium | java      |
 
 1. running-sum-of-1d-array
 2. palindrome-number
