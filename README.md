@@ -126,6 +126,7 @@ Leetcode Problems
 | 116 | [1268.Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)                                                                  | Trie Design HashMap                           | Amazon Apple Facebook Google  Bloomberg                                        | Medium | java      |
 | 116 | [1268.Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)                                                                  | Trie Design HashMap                           | Amazon Apple Facebook Google  Bloomberg                                        | Medium | java      |
 | 117 | [1603.Design Parking System](https://leetcode.com/problems/design-parking-system/)                                                                          | Design Counting                               | Amazon  Bloomberg                                                              | Easy   | java      |
+| 118 | [863.All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)                                               | Tree Graph HashMap Queue                      | Amazon Facebook Bloomberg Adobe Yahoo Microsoft                                | Medium | java      |
 
 1. running-sum-of-1d-array
 2. palindrome-number
