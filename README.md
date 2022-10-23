@@ -124,6 +124,8 @@ Leetcode Problems
 | 114 | [259.3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)                                                                                             | Two Pointers Array                            | Apple IBM Google  Facebook                                                     | Medium | java      |
 | 115 | [503.Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)                                                                       | Monotonic Stack                               | Amazon Adobe Apple Facebook Google  Bloomberg                                  | Medium | java      |
 | 116 | [1268.Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)                                                                  | Trie Design HashMap                           | Amazon Apple Facebook Google  Bloomberg                                        | Medium | java      |
+| 116 | [1268.Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)                                                                  | Trie Design HashMap                           | Amazon Apple Facebook Google  Bloomberg                                        | Medium | java      |
+| 117 | [1603.Design Parking System](https://leetcode.com/problems/design-parking-system/)                                                                          | Design Counting                               | Amazon  Bloomberg                                                              | Easy   | java      |
 
 1. running-sum-of-1d-array
 2. palindrome-number
