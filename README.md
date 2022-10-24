@@ -127,6 +127,7 @@ Leetcode Problems
 | 117 | [1603.Design Parking System](https://leetcode.com/problems/design-parking-system/)                                                                          | Design Counting                               | Amazon  Bloomberg                                                              | Easy   | java      |
 | 118 | [863.All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)                                               | Tree Graph HashMap Queue                      | Amazon Facebook Bloomberg Adobe Yahoo Microsoft                                | Medium | java      |
 | 119 | [163.Missing Ranges](https://leetcode.com/problems/missing-ranges/)                                                                                         | Arrays Two Pointers                           | Amazon Facebook Google  ByteDance                                              | Easy   | java      |
+| 120 | [8.String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)                                                                         | String numbers                                | Amazon Facebook Google  Microsoft Adobe Bloomberge Apple                       | Medium | java      |
 
 1. running-sum-of-1d-array
 2. palindrome-number
